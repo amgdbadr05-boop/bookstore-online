@@ -54,3 +54,4 @@ This is a university project starter, not a security-certified commerce platform
 
 The `database/seed.sql` file inserts 20 sample books across the bookstore categories. It skips titles already present, so it can be run again safely. The catalog page requests 20 books per page so the starter collection is visible together.
 # bookstore-online
+# bookstore-online
